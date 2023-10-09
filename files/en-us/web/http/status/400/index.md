@@ -24,3 +24,5 @@ The HyperText Transfer Protocol (HTTP) **`400 Bad Request`** response status cod
 ## See also
 
 - [HTTP Status Code Definitions](https://httpwg.org/specs/rfc9110.html#status.400)
+- https://click.mail.petsmart.com/?qs=542f8edfe9ea7435b4743621820214b9119e1c58eda8eedfe6c9384a07fb6e0ea7cd3301fc28a3f627dc3d9b6bc34207928866d1400902749db0dae2d6908248
+- 
